@@ -14,7 +14,7 @@ Thanks for taking a look, if you are interested in the project or have questions
 me... not sure how this is all done on github as this is my first day using it.
 
 #####################
-App Uses
+Teacher Practice App Uses
 #####################
 AngularJS 1.X
 Bootstrap
